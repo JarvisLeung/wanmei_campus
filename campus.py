@@ -1,4 +1,3 @@
-# 以下一卡通查询API为反编译完美校园app所得，请谨慎使用
 import requests, random, json, hashlib
 from campus_card import des_3
 from campus_card import rsa_encrypt as rsa
